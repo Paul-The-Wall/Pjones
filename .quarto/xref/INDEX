@@ -1,5 +1,17 @@
 {
   "index.qmd": {
     "index.html": "78847553"
+  },
+  "about.qmd": {
+    "about.html": "fec17686"
+  },
+  "cv.qmd": {
+    "cv.html": "f4caf8eb"
+  },
+  "Education and Work Experience.qmd": {
+    "Education and Work Experience.html": "817fd5d1"
+  },
+  "education_work.qmd": {
+    "education_work.html": "324c82cc"
   }
 }

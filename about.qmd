@@ -1,9 +1,10 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+I am an undergraduate student at Case Western Reserve University, pursuing a dual major in Statistics and Economics with a minor in Accounting. Pending my current application, I plan to attend Case for one more year to complete a Master's degree in Accounting.
+
+My interests include video games, watching the NFL, reading, working, and spending time with my fiancée.

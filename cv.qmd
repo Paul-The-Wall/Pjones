@@ -1,0 +1,8 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## Curriculum Vitae
+Download my resume [here](Files/Paul_Jones_Resume (1).pdf).
+
