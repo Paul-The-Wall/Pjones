@@ -1,2 +1,19 @@
+# Quarto build files
+.quarto/
+_site/
+about_files/
+cv_files/
+education_work_files/
+
+# RStudio project files
+.Rproj.user/
+.Rhistory
+.RData
+.Rproj
+
+# System files
+.DS_Store
+Thumbs.db
+
+
 /.quarto/
-.Rproj.user
