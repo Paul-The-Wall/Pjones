@@ -14,6 +14,8 @@ website:
       - text: "Resume"
         href: cv.qmd
 
+output-dir: .
+
 
 
 
